@@ -1,0 +1,43 @@
+body 
+{
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+}
+
+.header_div
+{
+    background: white;
+    color: red;
+}
+
+.header_div p
+{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.main_div button
+{
+    font-family: "Oswald", sans-serif;
+    margin-top:30px;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
